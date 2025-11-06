@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Colors -->
+    <color name="colorPrimary">#116c13</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#16AED9</color>
+    <color name="black">#000000</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorGreenDark">#2E7D32</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background -->
+    <color name="app_background">#F2EBAE</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="field_background">#F8F9FF</color>
+    <color name="password_background">#F5F5F5</color>
+    <color name="info_background">#E8F5E9</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#616161</color>
+
+    <!-- Toolbar -->
+    <color name="toolbar_background">#000000</color>
+    <color name="toolbar_icon">#FFFFFF</color>
+
+    <!-- App icon background -->
+    <color name="icon_bg_light_red">#FCE8E6</color>
+
+    <!-- Functional Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+</resources>
